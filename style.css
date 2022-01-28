@@ -10,6 +10,7 @@ body{
     position: relative;
     background-color: #f0f0f0;
     font-family: ' roboto',sans-serif;
+    margin-left: 5px;
 }
 
 .navbar{
@@ -22,7 +23,7 @@ background: #fff;
 display: flex
 ;
 align-items: center;
-padding: o 2.5 vw;
+padding: 0px 2.0vw;
 }
 .toggle-btn{
     width: 20px;
@@ -57,7 +58,7 @@ padding: o 2.5 vw;
     max-width: 500px;
     width: 50%;
     height: 35px;
-    display: flex-;
+    display: flex;
 }
 .search-bar{
     width: 85%;
@@ -66,6 +67,7 @@ padding: o 2.5 vw;
     padding: 8 20px;
     font-size: 16px;
     text-transform: capitalize;
+    
 }
 .search-btn{
     width: 15%;
